@@ -1,3 +1,1 @@
-"# RN" 
-"# Les-r-gles-d-associations" 
-"# Algorithme-Genetique-simple (simple AG)" 
+" Algorithme-Genetique-simple (simple AG)" 
